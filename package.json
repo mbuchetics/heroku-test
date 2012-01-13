@@ -1,15 +1,17 @@
 {
-  "author": "Matthias Buchetics <mbuchetics@gmail.com>",
-  "name": "mbuchetics-test",
-  "version": "0.0.2",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/mbuchetics/heroku-test.git"
-  },
-  "engines": {
-    "node": "v0.6.x",
-    "npm": ">=1.0.0"
-  },
-  "dependencies": {},
-  "devDependencies": {}
+  	"author": "Matthias Buchetics <mbuchetics@gmail.com>",
+  	"name": "mbuchetics-test",
+  	"version": "0.0.2",
+  	"repository": {
+    	"type": "git",
+    	"url": "git://github.com/mbuchetics/heroku-test.git"
+  	},
+  	"engines": {
+	  	"node": "v0.6.x",
+		"npm": ">=1.0.0"
+  	},
+  	"dependencies": {
+	  	"express": "2.x"
+  	},
+	"devDependencies": {}
 }
