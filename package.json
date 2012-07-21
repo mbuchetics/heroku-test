@@ -11,9 +11,9 @@
 		"npm": ">=1.0.0"
   	},
   	"dependencies": {
-	  	"express": "2.x"
+	  	"express": "2.x",
+      "grunt": "*"
   	},
 	"devDependencies": {
-      "grunt": "*"
   }
 }
