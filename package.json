@@ -1,7 +1,7 @@
 {
   	"author": "Matthias Buchetics <mbuchetics@gmail.com>",
   	"name": "mbuchetics-test",
-  	"version": "0.0.6",
+  	"version": "0.2.0",
   	"repository": {
     	"type": "git",
     	"url": "git://github.com/mbuchetics/heroku-test.git"
@@ -11,7 +11,9 @@
 		"npm": "1.2.x"
   	},
   	"dependencies": {
-	  	"express": "2.x"
+	  	"express": "3.x",
+		"grunt": "0.4.x"
   	},
-	"devDependencies": {}
+	"devDependencies": {
+	}
 }
