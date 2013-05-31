@@ -7,8 +7,8 @@
     	"url": "git://github.com/mbuchetics/heroku-test.git"
   	},
   	"engines": {
-	  	"node": "v0.8.x",
-		"npm": ">=1.0.0"
+	  	"node": "v0.10.x",
+		  "npm": ">=1.0.0"
   	},
   	"dependencies": {
 	  	"express": "2.x",
