@@ -12,6 +12,6 @@ module.exports = function(grunt) {
     });
 
     grunt.registerTask('heroku', 'hello');
-    grunt.registerTask('heroku:prod', 'hello-prod');
-    grunt.registerTask('heroku:dev', 'hello-dev');
+    grunt.registerTask('heroku:production', 'hello-prod');
+    grunt.registerTask('heroku:development', 'hello-dev');
 };
