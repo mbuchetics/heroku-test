@@ -3,5 +3,5 @@ module.exports = function(grunt) {
         grunt.log.writeln('oh, hello!');
     });
 
-    grunt.registerTask('heroku', 'hello');
+    grunt.registerTask('heroku:production', 'hello');
 };
